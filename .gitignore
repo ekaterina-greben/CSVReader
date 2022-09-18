@@ -452,9 +452,3 @@ $RECYCLE.BIN/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-
-/CSVReader.csproj.nuget.dgspec.json
-/CSVReader.csproj.nuget.g.props
-/CSVReader.csproj.nuget.g.targets
-/project.assets.json
-/project.nuget.cache
